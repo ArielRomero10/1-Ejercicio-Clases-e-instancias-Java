@@ -1,9 +1,0 @@
-¡Muy buenas profesor! le dejamos adjunto los 2 ejercicios correspondientes. 
-
--Respondiendo la pregunta: ¿Se puede instanciar un objeto de la clase “Animal”? ¿Cuántos?
-
-Si, se puede instanciar. En este ejemplo del ejercicio hicimos 3 instancias pero podríamos hacer muchas mas si el ejercicio o la problemática lo requiere.
-
-¡Saludos!
-
-GRUPO 5: Becerra Laura , Lucia tomas , Rodriguez Joaquín y Ariel Romero
